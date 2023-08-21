@@ -1,3 +1,3 @@
-# pizza
+# Pizza
 
-this is an introduction on using GitHub as a resource.
+This is an introduction on using GitHub as a resource.
